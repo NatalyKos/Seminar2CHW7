@@ -1,0 +1,15 @@
+D:\IT дз\Seminar2CHW7\Ass1\bin\Debug\net6.0\Ass1.exe
+D:\IT дз\Seminar2CHW7\Ass1\bin\Debug\net6.0\Ass1.deps.json
+D:\IT дз\Seminar2CHW7\Ass1\bin\Debug\net6.0\Ass1.runtimeconfig.json
+D:\IT дз\Seminar2CHW7\Ass1\bin\Debug\net6.0\Ass1.dll
+D:\IT дз\Seminar2CHW7\Ass1\bin\Debug\net6.0\Ass1.pdb
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.csproj.AssemblyReference.cache
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.AssemblyInfoInputs.cache
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.AssemblyInfo.cs
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.csproj.CoreCompileInputs.cache
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.dll
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\refint\Ass1.dll
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.pdb
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\Ass1.genruntimeconfig.cache
+D:\IT дз\Seminar2CHW7\Ass1\obj\Debug\net6.0\ref\Ass1.dll
